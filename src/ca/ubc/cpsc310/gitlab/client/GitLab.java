@@ -64,8 +64,6 @@ public class GitLab implements EntryPoint {
 				
 			}});
 	
-
-		
 	}
 	
 	/**
